@@ -9,7 +9,7 @@
 
 - 🌱 Saya sedang mempelajari **Next.js**
 
-- 💬 Tanya saya tentang **HTML5, CSS3, JavaScript, TypeScript, GIT, Sass, Bootstrap, React & Node Js**
+- 💬 Tanya saya tentang **HTML5, CSS3, JavaScript, TypeScript, GIT, Sass, Bootstrap, Tailwind CSS, React & Node Js**
 
 - ⚡ Fakta menyenangkan **Saya Biasa Saja**
 
