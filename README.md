@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fifovalle&label=Profile%20views&color=0e75b6&style=flat"
         alt="fifovalle" /> </p>
 
-- 🌱 Saya sedang mempelajari **Android Studio, Next.js, Three.js, TypeScript, Dan Java**
+- 🌱 Saya sedang mempelajari **Android Studio, Next.js, Three.js, TypeScript, Node Js, Dan Java**
 
-- 💬 Tanya saya tentang **Figma, HTML5, CSS3, JavaScript, GIT, Sass, Bootstrap, Tailwind CSS, React & Node Js**
+- 💬 Tanya saya tentang **Figma, HTML5, CSS3, JavaScript, GIT, Sass, Bootstrap, Tailwind CSS, & React**
 
 - ⚡ Fakta menyenangkan **Saya Biasa Saja**
 
