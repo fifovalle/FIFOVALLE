@@ -11,7 +11,7 @@
 
 - 💬 Tanya saya tentang **HTML5, CSS3, JavaScript, GIT, Sass, Bootstrap, Tailwind CSS, & React**
 
-- ⚡ Fakta menyenangkan **Saya Biasa Saj**
+- ⚡ Fakta menyenangkan **Saya Biasa Saja**
 
 - 👨‍💻 Semua projek saya tersedia di [https://fifovalle.github.io/](https://fifovalle.github.io/)
 
