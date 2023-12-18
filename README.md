@@ -9,7 +9,7 @@
 
 - 🌱 Saya sedang mempelajari **Android Studio, Next.js, Three.js, TypeScript, Dan Node Js**
 
-- 💬 Tanya saya tentang **HTML5, CSS3, JavaScript, GIT, Sass, Bootstrap, Tailwind CSS,Java, & React**
+- 💬 Tanya saya tentang **HTML5, CSS3, JavaScript, GIT, Sass, Bootstrap, Tailwind CSS, Java, & React**
 
 - ⚡ Fakta menyenangkan **Saya Biasa Saja**
 
