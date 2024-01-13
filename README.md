@@ -15,7 +15,7 @@
 
 - 👨‍💻 Semua projek saya tersedia di [https://fifovalle.github.io/](https://fifovalle.github.io/)
 
-- 📫 Bagaimana menghubungi saya **https://wa.me/+6281223652490**
+- 📫 Bagaimana menghubungi saya **https://wa.me/+6282318334287**
 
 <h3 align="left">Terhubung dengan saya:</h3>
 <p align="left">
