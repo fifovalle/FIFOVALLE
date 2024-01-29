@@ -1,6 +1,4 @@
-<a href="https://instagram.com/fif_ovalle">
-  <img src="https://programming-gifs.cyclic.app" alt="MasterHead" style="width: 1000px;">
-</a>
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://instagram.com/fif_ovalle)
 
 <h1 align="center">Hai 👋, saya Naufal FIFA</h1>
 <h3 align="center">Saya Web Developer</h3>
