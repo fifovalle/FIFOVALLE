@@ -2,7 +2,7 @@
 
 <h1 align="center">Hai 👋, saya Naufal FIFA</h1>
 <h3 align="center">Saya Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fifovalle&label=Profile%20views&color=0e75b6&style=flat"
         alt="fifovalle" /> </p>
@@ -20,10 +20,10 @@
 <h3 align="left">Terhubung dengan saya:</h3>
 <p align="left">
     <a href="https://instagram.com/fif_ovalle" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif"
             alt="fif_ovalle" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/naufal-fifa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"             alt="naufal-fifa" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/@zonadeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zonadeveloper" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/naufal-fifa/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="naufal-fifa" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/@zonadeveloper" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="@zonadeveloper" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Bahasa dan Alat:</h3>
