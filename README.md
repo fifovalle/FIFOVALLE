@@ -7,15 +7,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fifovalle&label=Profile%20views&color=0e75b6&style=flat"
         alt="fifovalle" /> </p>
 
-- 🌱 Saya sedang mempelajari **-**
+- 🌱 Saya sedang mempelajari **Three.js**
 
-- 💬 Tanya saya tentang **PHP, MySQL, HTML5, CSS3, JavaScript, TypeScript, GIT, Sass, Bootstrap, Tailwind CSS, Java, React, Node.js, Next.js, Three.js, Firebase & React Native**
+- 💬 Tanya saya tentang **PHP, MySQL, HTML5, CSS3, JavaScript, TypeScript, GIT, Sass, Bootstrap, Tailwind CSS, Java, React, Node.js, Next.js, Firebase & React Native**
 
 - ⚡ Fakta menyenangkan **Saya Biasa Saja**
 
 - 👨‍💻 Semua projek saya tersedia di [https://fifovalle.github.io/](https://fifovalle.github.io/)
 
 - 📫 Bagaimana menghubungi saya **https://wa.me/+6282318334287**
+
 
 <h3 align="left">Terhubung dengan saya:</h3>
 <p align="left">
@@ -28,6 +29,7 @@
 
 <h3 align="left">Bahasa dan Alat:</h3>
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
