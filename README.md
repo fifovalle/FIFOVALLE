@@ -34,3 +34,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=fifovalle&show_icons=true&theme=radical"
     alt="fifovalle" style="width: 50%; align-content: right;"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fifovalle&theme=radical" alt="fifovalle" style="width: 96%;"/>
+
+<img src="https://raw.githubusercontent.com/fifovalle/fifovalle/output/snake.svg" alt="Snake animation" />
