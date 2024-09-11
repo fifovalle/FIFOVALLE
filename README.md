@@ -68,6 +68,6 @@
     alt="fifovalle"/>
 <img src="https://github-readme-stats.vercel.app/api?username=fifovalle&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=Status%20"
     alt="fifovalle"/>
-<img src="https://streak-stats.demolab.com?user=fifovalle&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" alt="fifovalle"  height="300" />
+<img src="https://streak-stats.demolab.com?user=fifovalle&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" alt="fifovalle"  height="320" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fifovalle&radius=16&theme=react&area=true&order=5&custom_title=Grafik%20Kontribusi" height="300" alt="activity-graph graph"  />
 <img src="https://raw.githubusercontent.com/fifovalle/fifovalle/output/snake.svg" alt="Snake animation" />
