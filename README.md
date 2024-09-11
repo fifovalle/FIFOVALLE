@@ -65,9 +65,9 @@
 <img src="https://github-profile-trophy.vercel.app?username=fifovalle&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fifovalle&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2&custom_title=Bahasa"
-    alt="fifovalle" style="width: 45%; align-content: left;"/>
+    alt="fifovalle"/>
 <img src="https://github-readme-stats.vercel.app/api?username=fifovalle&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=Status%20"
-    alt="fifovalle" style="width: 50%; align-content: right;"/>
-<img src="https://streak-stats.demolab.com?user=fifovalle&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" alt="fifovalle" style="width: 96%;"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fifovalle&radius=16&theme=react&area=true&order=5&custom_title=Grafik%20Kontribusi" height="300" alt="activity-graph graph" style="width: 96%;"  />
-<img src="https://raw.githubusercontent.com/fifovalle/fifovalle/output/snake.svg" alt="Snake animation" style="width: 96%;" />
+    alt="fifovalle"/>
+<img src="https://streak-stats.demolab.com?user=fifovalle&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" alt="fifovalle" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fifovalle&radius=16&theme=react&area=true&order=5&custom_title=Grafik%20Kontribusi" height="300" alt="activity-graph graph"  />
+<img src="https://raw.githubusercontent.com/fifovalle/fifovalle/output/snake.svg" alt="Snake animation" />
