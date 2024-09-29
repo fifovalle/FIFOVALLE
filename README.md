@@ -14,7 +14,7 @@
 
 - 🌱 **Saat ini**: Sedang belajar **Three.js** untuk membuat animasi 3D di web.
 - 💬 Tanya saya tentang **PHP, MySQL, JavaScript, TypeScript, React, Next.js, Firebase, React Native, dan lebih banyak lagi.**
-- ⚡ **Fun fact**: Saya adalah penggemar kopi dan code.
+- ⚡ **Fun fact**: Saya adalah programmer gabut
 
 <p align="center">
   <a href="https://wa.me/+6282318334287" target="_blank"><img src="https://img.shields.io/badge/Hubungi-WhatsApp-green?style=for-the-badge&logo=whatsapp" alt="Hubungi Saya" /></a>
