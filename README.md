@@ -13,7 +13,7 @@
 </p>
 
 - 🌱 **Saat ini**: Sedang belajar **Three.js** untuk membuat animasi 3D di web.
-- 💬 Tanya saya tentang **PHP, MySQL, JavaScript, TypeScript, React, Next.js, Firebase, React Native, dan lebih banyak lagi.**
+- 💬 Tanya saya tentang **PHP, MySQL, HTML5, CSS3, JavaScript, TypeScript, GIT, Sass, Bootstrap, Tailwind CSS, Java, React, Node.js, Next.js, Firebase & React Native**
 - ⚡ **Fakta Menyenangkan**: Saya adalah programmer gabut
 
 <p align="center">
