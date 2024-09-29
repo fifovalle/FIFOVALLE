@@ -17,8 +17,8 @@
 - ⚡ **Fun fact**: Saya adalah penggemar kopi dan code.
 
 <p align="center">
-  <a href="https://wa.me/+6282318334287" target="_blank"><img src="https://img.shields.io/badge/Contact-WhatsApp-green?style=for-the-badge&logo=whatsapp" alt="Contact Me" /></a>
-  <a href="https://fifovalle.github.io/" target="_blank"><img src="https://img.shields.io/badge/My%20Portfolio-Website-orange?style=for-the-badge&logo=github" alt="Portfolio" /></a>
+  <a href="https://wa.me/+6282318334287" target="_blank"><img src="https://img.shields.io/badge/Hubungi-WhatsApp-green?style=for-the-badge&logo=whatsapp" alt="Hubungi Saya" /></a>
+  <a href="https://fifovalle.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portofolio-Situs-orange?style=for-the-badge&logo=github" alt="Portofolio" /></a>
 </p>
 
 <h3 align="left">Terhubung dengan saya:</h3>
