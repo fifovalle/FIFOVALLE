@@ -77,7 +77,3 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/fifovalle/fifovalle/output/snake.svg" alt="Snake Game" />
-
-<p align="center">
-  <em>Terima kasih telah mengunjungi profil saya!</em>
-</p>
