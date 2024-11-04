@@ -63,6 +63,8 @@
   <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c++ logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" />
 </div>
 
 <h3 align="left">Statistik GitHub Saya:</h3>
