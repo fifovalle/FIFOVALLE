@@ -61,6 +61,8 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c++ logo" />
 </div>
 
 <h3 align="left">Statistik GitHub Saya:</h3>
