@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://wa.me/+6282318334287" target="_blank"><img src="https://img.shields.io/badge/Hubungi-WhatsApp-green?style=for-the-badge&logo=whatsapp" alt="Hubungi Saya" /></a>
-  <a href="https://fifovalle.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portofolio%20Saya-Situs-orange?style=for-the-badge&logo=github" alt="Portofolio" /></a>
+  <a href="https://naufal-fifa.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portofolio%20Saya-Situs-orange?style=for-the-badge&logo=github" alt="Portofolio" /></a>
 </p>
 
 <h3 align="left">Terhubung dengan saya:</h3>
