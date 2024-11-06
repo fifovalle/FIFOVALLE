@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://instagram.com/fif_ovalle)
 
-<h1 align="center">Sampurasu👋, Saya Naufal Fadhil Ihsan Fikri Ash~Shidqi</h1>
+<h1 align="center">Sampurasun👋, Saya Naufal Fadhil Ihsan Fikri Ash~Shidqi</h1>
 <h3 align="center">Full-Stack Web & Mobile App Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
