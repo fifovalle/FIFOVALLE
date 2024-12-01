@@ -1,7 +1,7 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "* */12 * * *"
   workflow_dispatch:
   push:
@@ -16,17 +16,26 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate snake.svg with dynamic colors
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-light&dynamic=true
+      - name: Detect system theme and generate snake.svg
+        id: generate_snake
+        run: |
+          THEME="light"
+          if [ "${{ github.event.head_commit.committer.name }}" == "github-actions" ]; then
+            THEME="dark"
+          fi
+          if [ "$THEME" == "dark" ]; then
+            PALETTE="github-dark"
+          else
+            PALETTE="github-light"
+          fi
+          echo "Using theme: $THEME"
+          curl -L "https://raw.githubusercontent.com/Platane/snk/svg-only/v3/snk?palette=$PALETTE&github_user_name=${{ github.repository_owner }}" -o dist/snake.svg
 
       - name: Add custom animation and style to snake.svg
         run: |
-          # You can run a script to edit or add custom styles/animations to the generated SVG
-          sed -i 's/#000000/#3498db/g' dist/snake.svg # Example: Change color to blue
-          sed -i '/<svg>/a <style> .snake { animation: moveSnake 5s infinite; } @keyframes moveSnake { 0% { transform: translateX(0); } 100% { transform: translateX(100%); } } </style>' dist/snake.svg
+          sed -i 's/#000000/#3498db/g' dist/snake.svg
+          sed -i '/<svg>/a <style> .snake { animation: moveSnake 8s ease-in-out infinite; } @keyframes moveSnake { 0% { transform: translateX(0); } 50% { transform: translateX(50%); } 100% { transform: translateX(100%); } } </style>' dist/snake.svg
+          sed -i 's/#ffffff/#f39c12/g' dist/snake.svg
 
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
