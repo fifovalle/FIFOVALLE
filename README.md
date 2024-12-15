@@ -67,17 +67,31 @@
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" />
 </div>
 
-<h3 align="left">Statistik GitHub Saya:</h3>
+---
+
+### 📊 Statistik GitHub:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fifovalle&theme=dracula&margin-w=8&margin-h=8&column=-1" alt="GitHub Trophy" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fifovalle&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api?username=fifovalle&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fifovalle&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <br />
   <img src="https://streak-stats.demolab.com?user=fifovalle&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<h3 align="left">Grafik Kontribusi:</h3>
+---
+
+### 📈 Grafik Kontribusi:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fifovalle&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
-<img src="https://raw.githubusercontent.com/fifovalle/fifovalle/output/snake.svg" alt="Snake Game" />
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fifovalle/fifovalle/output/snake.svg" alt="Snake Game" />
+</div>
+
+---
+
+<p align="center">Dibuat dengan 💖 oleh <strong>Naufal Fadhil Ihsan Fikri Ash~Shidqi</strong></p>
