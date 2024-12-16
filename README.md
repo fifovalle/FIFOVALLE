@@ -91,7 +91,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/fifovalle/fifovalle/output/snake.svg" alt="Snake Game" />
 </div>
-
----
-
-<p align="center">Dibuat dengan 💖 oleh <strong>Naufal Fadhil Ihsan Fikri Ash~Shidqi</strong></p>
