@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fifovalle&label=Orang%20Yang%20Kepo&color=blueviolet&style=plastic" alt="fifovalle" />
+  <img src="https://komarev.com/ghpvc/?username=fifovalle&label=Orang%20Kepo&color=blueviolet&style=plastic" alt="fifovalle" />
   <img src="https://img.shields.io/badge/Code-PHP-blue" alt="PHP Badge" />
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow" alt="JavaScript Badge" />
   <img src="https://img.shields.io/badge/Platform-Firebase-orange" alt="Firebase Badge" />
