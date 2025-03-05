@@ -3,7 +3,7 @@
 <h1 align="center">Sampurasun👋, Saya Naufal Fadhil Ihsan Fikri Ash~Shidqi</h1>
 <h3 align="center">Full-Stack Web, Desktop & Mobile App Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="righ" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fifovalle&label=Orang%20Kepo&color=blueviolet&style=plastic" alt="fifovalle" />
