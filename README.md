@@ -12,9 +12,25 @@
   <img src="https://img.shields.io/badge/Platform-Firebase-orange" alt="Firebase Badge" />
 </p>
 
-- 🌱 **Currently Learning**: Exploring **Three.js** to build stunning 3D animations for the web.  
-- 💬 **Ask Me About**: PHP, MySQL, HTML5, CSS3, JavaScript, TypeScript, Git, Sass, Bootstrap, Tailwind CSS, Java, React, Node.js, Next.js, Firebase & React Native  
-- ⚡ **Fun Fact**: I'm a “chill coder” who enjoys building things for fun and learning on the go!
+- 🌱 **Currently Learning**:  
+Diving deep into **Docker** to master containerization and build scalable, efficient applications across any platform.
+
+- 💬 **Ask Me About**:  
+
+  - **🎨 Frontend Development**  
+Crafting sleek and responsive interfaces with:  
+**HTML5**, **CSS3**, **JavaScript**, **TypeScript**, **Sass**, **Bootstrap**, **Tailwind CSS**, **React**, **Next.js**, **React Native**
+
+  - **🛠️ Backend Development**  
+Powering applications behind the scenes using:  
+**PHP**, **MySQL**, **Node.js**, **Laravel**, **Firebase**, **Supabase**, **MongoDB**, **Docker**, **Java**, **C**
+
+  - **🧰 Tools & Others**  
+Version control and collaboration with:  
+**Git**
+
+- ⚡ **Fun Fact**:  
+I’m a *"chill coder"* who codes for fun, loves tackling new tech, and learns best while building cool things along the way.  
 
 <p align="center">
   <a href="https://wa.me/+6282318334287" target="_blank"><img src="https://img.shields.io/badge/Contact-WhatsApp-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp" /></a>
@@ -32,22 +48,24 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="40" />
   <img src="https://skillicons.dev/icons?i=js" height="40" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" />
   <img src="https://skillicons.dev/icons?i=react" height="40" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" />
   <img src="https://skillicons.dev/icons?i=html" height="40" />
   <img src="https://skillicons.dev/icons?i=css" height="40" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" />
   <img src="https://skillicons.dev/icons?i=git" height="40" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" />
   <img src="https://skillicons.dev/icons?i=c" height="40" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
 </div>
 
 ---
