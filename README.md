@@ -19,7 +19,7 @@
   - 🎨 **Frontend**:  
     HTML5, CSS3, JavaScript, TypeScript, Sass, Bootstrap, Tailwind, React, Next.js, React Native
   - 🛠️ **Backend**:  
-    PHP, MySQL, Laravel, Node.js, Firebase, Supabase, MongoDB, Java, C, Docker
+    PHP, MySQL, Laravel, Node.js, Firebase, Supabase, MongoDB, Java, C, Docker, NestJS
   - ⚙️ **Tools**:  
     Git, GitHub, Vercel, Postman, VS Code
 
@@ -47,7 +47,7 @@
 
 ### 🛠️ Tech Stack:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,php,laravel,nodejs,express,mysql,mongodb,supabase,firebase,docker,java,c,git,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,php,laravel,nodejs,express,mysql,mongodb,supabase,firebase,docker,java,c,git,postman,nestjs" />
 </div>
 
 ---
