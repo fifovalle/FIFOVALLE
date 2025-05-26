@@ -47,7 +47,7 @@
 
 ### 🛠️ Tech Stack:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,php,laravel,nodejs,express,mysql,mongodb,supabase,firebase,docker,java,c,git,postman,nestjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,php,laravel,nodejs,express,mysql,mongodb,supabase,firebase,docker,java,c,git,postman,nesr.sj" />
 </div>
 
 ---
