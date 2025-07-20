@@ -1,6 +1,6 @@
 [![Header](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://instagram.com/fif_ovalle)
 
-<h1 align="center">Hi there!l 👋 I'm <span style="color:#00BFFF">Naufal Fadhil Ihsan Fikri Ash Shidqi</span></h1>
+<h1 align="center">Hi there! 👋 I'm <span style="color:#00BFFF">Naufal Fadhil Ihsan Fikri Ash Shidqi</span></h1>
 <h3 align="center">💻 Full-Stack Developer — Web, Desktop & Mobile Applications 🚀</h3>
 
 <p align="center">
