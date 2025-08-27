@@ -18,14 +18,20 @@ Currently, I am focusing on **Cloud Infrastructure, DevOps, and Containerization
 
 ## 🛠️ Technical Skills
 
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,php,javascript,typescript" />
+</p>
+
 ### 🌐 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
 ### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,nestjs,java,c" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,nestjs" />
 </p>
 
 ### 🗄️ Databases
@@ -33,9 +39,14 @@ Currently, I am focusing on **Cloud Infrastructure, DevOps, and Containerization
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,supabase" />
 </p>
 
-### 🔧 DevOps & Tools
+### 🔧 Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,vercel,postman" />
+</p>
+
+### 🤖 IoT & Embedded
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,esp8266,esp32" />
 </p>
 
 ---
