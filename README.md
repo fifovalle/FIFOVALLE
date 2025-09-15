@@ -10,41 +10,56 @@
 ---
 
 ## 👨‍💻 Professional Summary
-I am a **Full-Stack Cross-Platform Developer** specializing in building **modern, scalable, and high-performance applications** across **Web, Desktop, and Mobile platforms**.  
-With strong expertise in both **Frontend** and **Backend development**, I deliver clean, maintainable, and production-ready solutions.  
-Currently, I am focusing on **Cloud Infrastructure, DevOps, and Containerization (Docker)** to strengthen deployment and scalability.  
+
+I am a **Full-Stack Cross-Platform Developer** specializing in building **modern, scalable, and high-performance applications** across **Web, Desktop, and Mobile platforms**.
+With strong expertise in both **Frontend** and **Backend development**, I deliver clean, maintainable, and production-ready solutions.
+Currently, I am focusing on **Cloud Infrastructure, DevOps, and Containerization (Docker)** to strengthen deployment and scalability.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 💻 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,php,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,php,javascript,typescript,dart" />
 </p>
 
 ### 🌐 Frontend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
   <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react" />
+  <img src="https://skillicons.dev/icons?i=dart" />
 </p>
 
 ### ⚙️ Backend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,nestjs" />
 </p>
 
 ### 🗄️ Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,supabase" />
 </p>
 
 ### 🔧 Tools & DevOps
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,githubactions,docker,vercel,postman" />
 </p>
 
 ### 🤖 IoT & Embedded
+
 <p>
   <img src="https://skillicons.dev/icons?i=arduino,esp8266,esp32" />
 </p>
@@ -52,6 +67,7 @@ Currently, I am focusing on **Cloud Infrastructure, DevOps, and Containerization
 ---
 
 ## 📊 GitHub Insights
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fifovalle&show_icons=true&theme=transparent&hide_border=true&title_color=00BFFF&icon_color=00BFFF" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fifovalle&layout=compact&theme=transparent&hide_border=true&title_color=00BFFF" height="180" />
@@ -62,6 +78,7 @@ Currently, I am focusing on **Cloud Infrastructure, DevOps, and Containerization
 ---
 
 ## 🏆 Achievements
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fifovalle&theme=flat&no-bg=true&margin-w=15&margin-h=15&column=6" />
 </div>
@@ -69,6 +86,7 @@ Currently, I am focusing on **Cloud Infrastructure, DevOps, and Containerization
 ---
 
 ## 📈 Contribution Graph
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fifovalle&theme=react-dark&area=true&hide_border=true" />
 </div>
@@ -76,6 +94,7 @@ Currently, I am focusing on **Cloud Infrastructure, DevOps, and Containerization
 ---
 
 ## 🐍 Snake Contribution Animation
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/fifovalle/fifovalle/output/snake.svg" alt="Snake animation" />
 </div>
@@ -83,6 +102,7 @@ Currently, I am focusing on **Cloud Infrastructure, DevOps, and Containerization
 ---
 
 ## 🌐 Let’s Connect
+
 <p align="center">
   <a href="https://naufal-fifa.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/naufal-fifa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -90,3 +110,5 @@ Currently, I am focusing on **Cloud Infrastructure, DevOps, and Containerization
   <a href="https://www.youtube.com/@zonadeveloper" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://wa.me/+6282318334287" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
+
+---
