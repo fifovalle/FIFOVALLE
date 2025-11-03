@@ -117,7 +117,3 @@ Currently, I am focusing on **Cloud Infrastructure, DevOps, and Containerization
   <a href="https://www.youtube.com/@zonadeveloper" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://wa.me/+6282318334287" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
-
----
-
-*Edited: Menambahkan dukungan Redux (dan Redux Toolkit badge) pada bagian State Management. Jika mau saya tambahkan contoh kode setup Redux/RTK untuk React atau Redux pada Flutter/Native, beri tahu saya.*
