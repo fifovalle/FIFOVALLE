@@ -33,6 +33,13 @@ Currently, I am focusing on **Cloud Infrastructure, DevOps, and Containerization
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
+### 🧭 State Management
+
+<p>
+  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
+
 ### 📱 Mobile Development
 
 <p>
@@ -112,3 +119,5 @@ Currently, I am focusing on **Cloud Infrastructure, DevOps, and Containerization
 </p>
 
 ---
+
+*Edited: Menambahkan dukungan Redux (dan Redux Toolkit badge) pada bagian State Management. Jika mau saya tambahkan contoh kode setup Redux/RTK untuk React atau Redux pada Flutter/Native, beri tahu saya.*
