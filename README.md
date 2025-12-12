@@ -3,7 +3,7 @@
 
 <div align="center">
 
-### 🚀 Full-Stack Cross-Platform Developer | Web • Desktop • Mobile
+### 🚀 Full-Stac Cross-Platform Developer | Web • Desktop • Mobile
 
 Crafting **scalable**, **modern**, and **high-performance** applications across multiple platforms with a passion for clean code and user-centric design.
 
