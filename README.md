@@ -1,7 +1,7 @@
 [![Header](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://naufal-fifa.vercel.app/)
 # 👋 Hi, I'm Naufal Fadhil Ihsan Fikri Ash Shidqi
 
-<div align="center">
+<div align="center>
 
 ### 🚀 Full-Stack Cross-Platform Developer | Web • Desktop • Mobile
 
