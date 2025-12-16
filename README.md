@@ -30,7 +30,7 @@ I'm a versatile developer with expertise in building **full-stack applications**
 
 ---
 
-## 🛠️ Technical Stac
+## 🛠️ Technical Stack
 
 ### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
