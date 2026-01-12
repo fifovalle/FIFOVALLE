@@ -1,6 +1,6 @@
 [![Header](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://naufal-fifa.vercel.app)
 
-<h1 align="center">Naufal Fadhil Ihsan Fikri Ash Shidq</h1>
+<h1 align="center">Naufal Fadhil Ihsan Fikri Ash Shidqi</h1>
 <p align="center">
   <strong>Full-Stack Cross-Platform Engineer</strong><br/>
   Web • Mobile • Desktop • Cloud Systems
