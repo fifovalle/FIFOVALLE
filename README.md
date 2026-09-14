@@ -28,11 +28,11 @@
 
 ## 👨‍💻 Professional Snapshot
 
-I am a highly skilled **Full-Stack Cross-Platform Developer** and Software Engineer[cite: 1] currently pursuing a Bachelor’s degree in Informatics Engineering at Jenderal Achmad Yani University[cite: 1]. 
+I am a highly skilled **Full-Stack Cross-Platform Developer** and Software Engineer[cite: 1] currently pursuing a Bachelor's degree in Informatics Engineering at Jenderal Achmad Yani University[cite: 1]. 
 
 - 🎯 **Founder & Lead at Bhinneka Dev**: Spearheading a development team to deliver production-grade digital transformation solutions for government and academic institutions, including **BMKG**, **BASARNAS**, and various educational bodies[cite: 1].
-- 💡 **Core Expertise**: Deep specialization in backend architecture and system design utilizing **NestJS, Laravel, and TypeScript**, alongside building robust frontend and mobile implementations with **React.js, Next.js, React Native, and Flutter**[cite: 1].
-- ⚙️ **Delivery & Execution**: Managing the full software development lifecycle (SDLC)—from requirements analysis to cloud-native production deployments via **Docker, CI/CD, Vercel, and Supabase**[cite: 1].
+- 💡 **Core Expertise**: Deep specialization in backend architecture and system design utilizing **NestJS, Laravel, and TypeScript**, alongside building robust frontend and mobile implementations with **React.js, Next.js, React Native, and Flutter**. Experienced in high-performance caching and real-time data handling with **Redis**[cite: 1].
+- ⚙️ **Delivery & Execution**: Managing the full software development lifecycle (SDLC)—from requirements analysis to cloud-native production deployments via **Docker, Redis, CI/CD, Vercel, and Supabase**[cite: 1].
 
 > *"I transform complex operational requirements into clean, scalable, and user-centric digital ecosystems."*
 
@@ -55,6 +55,10 @@ I am a highly skilled **Full-Stack Cross-Platform Developer** and Software Engin
 * **🚨 SIMORE - Monitoring System (BASARNAS)** | *Fullstack Developer & Team Leader*[cite: 1]
   * Developed a lightweight, highly reliable web platform specifically designed for managing disaster operation reports and real-time field monitoring[cite: 1].
 
+* **🚀 NestForge Starter** | *Creator & Maintainer*
+  * Production-ready NestJS starter kit with Prisma, PostgreSQL, Redis, Docker, JWT authentication, and RBAC — designed to accelerate SaaS and API development.
+  * **Stack:** *NestJS, TypeScript, Prisma, PostgreSQL, Redis, Docker*.
+
 ---
 
 ## 🧰 The Tech Stack & Ecosystem
@@ -66,7 +70,7 @@ I am a highly skilled **Full-Stack Cross-Platform Developer** and Software Engin
 | **Languages & Core** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 | **Frontend & Mobile** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white) |
 | **Backend & APIs** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square&logo=postman&logoColor=white) |
-| **Databases & Cloud** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Databases, Cache & Cloud** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-181717?style=flat-square&logo=scrumalliance&logoColor=white) |
 
 </div>
